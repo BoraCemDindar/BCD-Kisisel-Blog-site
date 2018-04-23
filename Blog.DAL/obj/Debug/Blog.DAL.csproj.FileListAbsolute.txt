@@ -1,0 +1,36 @@
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\Blog.DAL.dll.config
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\BlogDomain.dll
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\BlogDomain.pdb
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\obj\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\obj\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\obj\Debug\Blog.DAL.Migrations.initial.resources
+C:\Users\ASUS\Desktop\Blog-site\Blog.DAL\obj\Debug\Blog.DAL.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\Blog.DAL.dll.config
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\Blog.DAL.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\BlogDomain.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\BlogDomain.pdb
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\obj\Debug\Blog.DAL.Migrations.initial.resources
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\obj\Debug\Blog.DAL.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\obj\Debug\Blog.DAL.dll
+C:\Users\ASUS\Desktop\Projelerimin Hepsinin Son Hallerinin Bulunduğu Dosya\BCD-Kisisel-Blog-site\Blog.DAL\obj\Debug\Blog.DAL.pdb

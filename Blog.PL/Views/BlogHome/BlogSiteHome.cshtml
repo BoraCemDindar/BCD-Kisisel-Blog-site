@@ -1,0 +1,107 @@
+﻿@model BlogDomain.Core.BlogPostComment
+
+@{
+    ViewBag.Title = "BlogSiteHome";
+    Layout = "~/Views/Shared/_Layout_Blog.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="post-preview">
+                <a href="https://www.youtube.com/watch?v=Qd26Bc0D6oo&feature=youtu.be">
+                    <h2 class="post-title">
+                        WISSEN AKADEMIE Otomasyon Sistemi
+                    </h2>
+                    <h6 class="post-subtitle">
+                        <br>  ▪ İnsan Kaynakları, Muhasebe, Yönetim olmak üzere 3 farklı yetkili giriş işlemi bulunmakta.<br />
+                        <br>  ▪ Sınıf açma, sınıfların branşlarını belirleme, eğitime başlangıç ve bitiş belirleme, öğretmenlere sınıf atama işlemleri.<br />
+                        <br>   ▪ Öğretmen, Öğrenci ve Veli kayıt işlemleri ve bilgilerini farklı yetkilere izinli formlarda görüntülenmesi, güncelleme ve silme işlemleri.<br />
+                        <br>   ▪ Ödev belirleme işlemi, aynı sayfada belirlenen ödevin içeriklerini ve not bilgilerini S22.Imap.dll eklentisi ile veliye otomatik mail atma işlemi.<br />
+                        <br>   ▪ Tahsilat işleminde kayıt esnasında taksit sayısı ve tutarına bağlı, ders başlangıç tarihi referans alınarak taksit sayısına göre vadelere bölme işlemi DevExpress eklentisiyle dekont haline getirme işlemi. Her vade tahsilinde dekont çıkarma işlemi ve dekont bilgilerini öğrencinin velisine otomatik mail atma işlemi.<br />
+                        <br>  ▪ Tasarımda Bunifu .Net UI Framework Design eklentisi kullanıldı.<br />
+                        <br>   ▪ Katmanlı mimari (Entity Framework Database First) yöntemi kullanıldı.<br />
+
+                        <br>  Kullanılan Teknolojiler: Entitiy Framework, Bunifu .Net UI Framework Design, DevExpress, S22Imap.dll, C#<br />
+                    </h6>
+                </a>
+                <p class="post-meta">
+                    Posted by
+                    <a href="#">Yorum Yap</a>
+                    @DateTime.Now
+                </p>
+            </div>
+            <hr>
+            <div class="post-preview">
+                <a href="https://www.youtube.com/watch?v=DXGm-yYPslY&feature=share">
+                    <h2 class="post-title">
+                        (C#) Görüntü işleme ile Hassas Cisimleri Renklerine Göre Ayıran Robot
+                    </h2>
+                    <h6 class="post-subtitle">
+                        <br>  ▪ Robot kol teknolojisi Ar-Ge planlaması ve Literatür takibi.<br />
+                        <br>  ▪ Kayış adımı, Kasnak ve Tork hesaplamaları.<br />
+                        <br>  ▪ Yük ve kinematik hesaplara dayanarak step motor seçimi ve diğer malzemelerin tedarik edilmesi.<br />
+                        <br>  ▪ Robot kol özgün tasarımı, 3D printer ile üretimi.<br />
+                        <br>  ▪ Arduino, 3D printer Hassasiyetinin Robot kola entegrasyonu ve kodlaması.<br />
+                        <br>   ▪ C# dilinde görüntü işleme.<br />
+                        <br>   ▪ Robotic hesaplamaların kodlamaya aktarılması.<br />
+
+                        <br>   Kullanılan Teknolojiler: C#, 3D Printer, Step Motor, Robotic, Microcontroler<br />
+                    </h6>
+                </a>
+                <p class="post-meta">
+                    Posted by
+                    <a href="#">Yorum Yap</a>
+                    @DateTime.Now
+                </p>
+            </div>
+            <hr>
+            <div class="post-preview">
+                <a href="https://drive.google.com/open?id=1lBL_dPLM8ZjsbyHjOqtxqqJys4uvEofR">
+                    <h2 class="post-title">
+                        Denge Robotunun PID Kontrolünü Bulanık Mantık İle Hesaplama
+                    </h2>
+                    <h6 class="post-subtitle">
+                        <br>  ▪ Değişen açı değerlerinin tekrar istediğimiz açı (0 derece) konumuna gelmesi için motora gönderilecek olan PWM değerinin bulanık mantık yolu ile hesaplanması yapılmıştır.<br />
+                        <br> ▪ Robotumuzun kontrol sisteminden bahsedecek olursak dengede durması için gyrosensörden gelen açı analiz edilmiş ve PID kontrol sistemiyle açıya göre motorlara ivmelenme vererek denge sağlanmıştır.<br />
+                        <br> ▪ Ziegler–Nichols metodu PID parametrelerinin hesaplanmasında en yaygın olarak kullanılan metottur. Fakat bu projede metod olarak Matlab (Fuzzy Logic) yöntemi kullanılmıştır.<br />
+                        <br> ▪ Elimizdeki verilerle bulanık mantık (mamdani) yöntemini kullanarak elde etmiş olduğumuz PWM değerleri gerçek PWM değerilerine yakın sonuçlar vermekte ve bu durum denge robotunda bulanık mantık yönteminin kullanılmasını işe yarar kılmaktadır.<br />
+
+                        <br>  Kullanılan Teknolojiler: Matlab (Fuzzy Logic), Arduino<br />
+                    </h6>
+                </a>
+                <p class="post-meta">
+                    Posted by
+                    <a href="#">Yorum Yap</a>
+                    @DateTime.Now
+                </p>
+            </div>
+            <hr>
+            <div class="post-preview">
+                <a href="http://www.tev.com.tr/ar-ge.aspx">
+                    <h2 class="post-title">
+                        Toplam Enerji Verimliliği (AR-GE Polietilen Geri Dönüşümü Otomasyon Sistemi)
+                    </h2>
+                    <h6 class="post-subtitle">
+                        <br>  ▪ Ansys (Workbench) programı ile tüm otomasyon sistemindeki havuz, çırpıcı ve aradaki üretim bantlarının Simülasyonu, hidrostatik ve mukavemet analizleri.<br />
+                        <br> ▪ Havuz sisteminde, itici paletlere düşen kuvvetlerin hesaplanması ve bununla birlikte; motor tork ve devir hesabı yapılarak motor seçimi yapılması.<br />
+                        <br>  ▪ Ansys analizleri ve mekanik hesaplamalara dayanarak, (Autocad) Tasarımda yapılan İyileştirmeler.<br />
+                        <br>  ▪ Geri dönüşüm otomasyon sistemi piyasasının takibi ve eksikliklerin giderilmesine yönelik araştırmalar.<br />
+   
+
+                        <br> Kullanılan Teknolojiler: Ansys (Workbench), AutoCAD<br />
+                    </h6>
+                </a>
+                <p class="post-meta">
+                    Posted by
+                    <a href="#">Yorum Yap</a>
+                    @DateTime.Now
+                </p>
+            </div>
+            <hr>
+            <!-- Pager -->
+            <div class="clearfix">
+                <a class="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
+            </div>
+        </div>
+    </div>
+</div>
